@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835734590143",
+    "project_id": "arctic-sign-339006",
+    "storage_bucket": "arctic-sign-339006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835734590143:android:1257d26c380394b12b2c0a",
+        "android_client_info": {
+          "package_name": "com.example.notification_otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvnAfcjwmVOyoL0K4YfD64UULXEE5TiIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

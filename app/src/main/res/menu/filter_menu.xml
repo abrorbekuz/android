@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/filter"
+        android:icon="@drawable/ic_filter"
+        app:showAsAction="always"
+        tools:ignore="MenuTitle">
+
+        <menu>
+            <item
+                android:id="@+id/total_log"
+                android:title="Total log" />
+            <item
+                android:id="@+id/today_log"
+                android:title="Today log" />
+        </menu>
+    </item>
+
+</menu>
